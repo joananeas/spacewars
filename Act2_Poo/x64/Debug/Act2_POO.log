@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\nasneas\Desktop\POO\Act2_POO\Act2_POO\main.cpp(204,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Act2_POO.vcxproj -> C:\Users\nasneas\Desktop\POO\Act2_POO\x64\Debug\Act2_POO.exe
